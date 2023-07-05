@@ -1,0 +1,8 @@
+C:\Users\ayoub\source\repos\ExtensionMethodDemoApp\ExtensionMethodDemo\bin\Debug\ExtensionMethodDemo.exe.config
+C:\Users\ayoub\source\repos\ExtensionMethodDemoApp\ExtensionMethodDemo\bin\Debug\ExtensionMethodDemo.exe
+C:\Users\ayoub\source\repos\ExtensionMethodDemoApp\ExtensionMethodDemo\bin\Debug\ExtensionMethodDemo.pdb
+C:\Users\ayoub\source\repos\ExtensionMethodDemoApp\ExtensionMethodDemo\obj\Debug\ExtensionMethodDemo.csproj.AssemblyReference.cache
+C:\Users\ayoub\source\repos\ExtensionMethodDemoApp\ExtensionMethodDemo\obj\Debug\ExtensionMethodDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayoub\source\repos\ExtensionMethodDemoApp\ExtensionMethodDemo\obj\Debug\ExtensionMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\ayoub\source\repos\ExtensionMethodDemoApp\ExtensionMethodDemo\obj\Debug\ExtensionMethodDemo.exe
+C:\Users\ayoub\source\repos\ExtensionMethodDemoApp\ExtensionMethodDemo\obj\Debug\ExtensionMethodDemo.pdb
